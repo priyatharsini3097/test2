@@ -32,8 +32,5 @@ heading: {
     fontSize: 28,
     color:'red',
 }
-
-
-
-    });
+});
 export default Details;
